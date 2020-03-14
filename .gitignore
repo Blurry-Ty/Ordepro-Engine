@@ -1,0 +1,7 @@
+#Pastas
+.vs/
+bin/
+
+#Arquivos 
+
+*.user
